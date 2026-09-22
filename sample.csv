@@ -1,0 +1,25 @@
+id,customer,item,qty,ordered
+ORD-1001,Fern & Co,Oak desk,4,2025-01-14
+ORD-1002,Redbridge Ltd,Task chair,12,2025-01-22
+ORD-1003,Marlow Studio,Desk lamp,30,2025-02-03
+ORD-1004,Harlow Interiors,Bookshelf,6,2025-02-11
+ORD-1005,Fern & Co,Filing cabinet,3,2025-02-19
+ORD-1006,Quayside Supplies,Whiteboard,10,2025-03-02
+ORD-1007,Marlow Studio,Oak desk,2,2025-03-09
+ORD-1008,Redbridge Ltd,Desk lamp,18,2025-03-21
+ORD-1009,Harlow Interiors,Task chair,24,2025-04-04
+ORD-1010,Quayside Supplies,Filing cabinet,5,2025-04-15
+ORD-1011,Fern & Co,Whiteboard,8,2025-04-27
+ORD-1012,Marlow Studio,Bookshelf,14,2025-05-06
+ORD-1013,Redbridge Ltd,Oak desk,1,2025-05-18
+ORD-1014,Harlow Interiors,Desk lamp,40,2025-05-29
+ORD-1015,Quayside Supplies,Task chair,9,2025-06-07
+ORD-1016,Fern & Co,Bookshelf,7,2025-06-19
+ORD-1017,Marlow Studio,Filing cabinet,2,2025-06-30
+ORD-1018,Redbridge Ltd,Whiteboard,16,2025-07-12
+ORD-1019,Harlow Interiors,Oak desk,3,2025-07-23
+ORD-1020,Quayside Supplies,Desk lamp,22,2025-08-01
+ORD-1021,Fern & Co,Task chair,11,2025-08-14
+ORD-1022,Marlow Studio,Whiteboard,5,2025-08-26
+ORD-1023,Redbridge Ltd,Bookshelf,19,2025-09-05
+ORD-1024,Harlow Interiors,Filing cabinet,4,2025-09-16
